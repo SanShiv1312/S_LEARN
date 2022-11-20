@@ -1,5 +1,5 @@
 # S_LEARN
-**`Handy E-Learning web app!!`** 🌷💫
+#### `Handy E-Learning web app!!` 🌷💫
 
 `The main motive of S-LEARN is to provide handy access of learning concepts to major audience`
 
